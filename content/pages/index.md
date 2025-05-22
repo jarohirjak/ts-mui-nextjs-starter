@@ -18,10 +18,10 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
+        label: TikTok
+        url: 'https://www.tiktok.com/@j4r0slav'
+        size: medium
+        variant: text
         color: primary
     image:
       type: Image

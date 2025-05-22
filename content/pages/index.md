@@ -8,9 +8,8 @@ sections:
       my name is Jaro Hirjak, I'm 17 and i love working on websites as well as
       3D modelling.
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      I also enjoy doing way more than just that of course, but that is all in
+      the about me page!
     actions:
       - type: Button
         label: Start Building

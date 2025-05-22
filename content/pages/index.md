@@ -25,7 +25,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/photo_2025-05-21_11-58-26.jpg
+      url: /images/logo_jh.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component

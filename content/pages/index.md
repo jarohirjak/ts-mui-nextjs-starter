@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
+    title: Hey! Welcome to my site!
     subtitle: >-
       my name is Jaro Hirjak, I'm 17 and i love working on websites as well as
       3D modelling.
